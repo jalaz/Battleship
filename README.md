@@ -25,4 +25,14 @@ It is recommended to fulfil the tests suits in the order:
    - ShipIntersectsWithShould
    - BoardShould
 
+####Ship notation
+
+``A1x2|``
+
+``A1`` - coordinates (first square on the board)
+
+``x2`` - size of the ship (fill two squares)
+
+``|`` - positioning (vertical)
+
 Have fun :)
